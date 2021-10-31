@@ -1,0 +1,12 @@
+:root{
+	--bgcolor1: #50eb26;
+}
+
+/*@import url('https://fonts.googleapis.com/css2?family=Playball&display=swap');*/
+
+#nav{
+	background-color: var(--bgcolor1);
+}
+#navname{
+	font-family: 'Playball';
+}
